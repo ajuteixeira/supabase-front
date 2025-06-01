@@ -5,7 +5,7 @@ const updateProductName = document.querySelector('#name');
 const updateProductPrice = document.querySelector('#price');
 const updateProductDescription = document.querySelector('#description');
 
-const BACKEND = 'http://15.229.47.82:3000';
+const BACKEND = 'http://18.231.223.241:3000';
 
 // Function to fetch all products from the server
 async function fetchProducts() {
